@@ -1,8 +1,6 @@
 # note-app
 How to Use:
 
-At AI Prompt type: I want to create simple Note App. So generate Mobil Responsive code for HTML, CSS and JavaScript codes. Add linear gradient color sky-blue in the background
-
 Create Files: Save the HTML as index.html, the CSS as style.css, and the JavaScript as script.js in the same folder.
 
 Open HTML: Open index.html in your web browser.
